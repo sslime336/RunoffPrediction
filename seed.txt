@@ -1,0 +1,5 @@
+[Sun Jul  7 17:17:49 2024] seed 500786208: Min-Max + KNN(param: {'C': 5.400000000000004, 'kernel': 'rbf'}), R2: 0.398719824824073
+[Sun Jul  7 17:18:45 2024] seed 211131904: Z-score + SVR(param: {'C': 7.700000000000006, 'kernel': 'rbf'}), R2: 0.38765198572852955
+[Sun Jul  7 17:19:15 2024] seed 1: Z-score + SVR(param: {'C': 6.000000000000004, 'kernel': 'rbf'}), R2: 0.3741653995369578
+[Sun Jul  7 17:20:22 2024] seed 6: Z-score + SVR(param: {'C': 4.900000000000004, 'kernel': 'rbf'}), R2: 0.4199412118458308
+[Sun Jul  7 17:22:01 2024] seed 471044336: Z-score + Ridge(param: {'C': 7.900000000000006, 'kernel': 'rbf'}), R2: 0.33886293368510645
