@@ -1,3 +1,7 @@
 report
-docs
+docs/dataset
+docs/docx
+docs/pdf
+docs/pptx
+docs/~*
 .ipynb_checkpoints
