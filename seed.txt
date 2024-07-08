@@ -1,5 +1,34 @@
-[Sun Jul  7 17:17:49 2024] seed 500786208: Min-Max + KNN(param: {'C': 5.400000000000004, 'kernel': 'rbf'}), R2: 0.398719824824073
-[Sun Jul  7 17:18:45 2024] seed 211131904: Z-score + SVR(param: {'C': 7.700000000000006, 'kernel': 'rbf'}), R2: 0.38765198572852955
-[Sun Jul  7 17:19:15 2024] seed 1: Z-score + SVR(param: {'C': 6.000000000000004, 'kernel': 'rbf'}), R2: 0.3741653995369578
-[Sun Jul  7 17:20:22 2024] seed 6: Z-score + SVR(param: {'C': 4.900000000000004, 'kernel': 'rbf'}), R2: 0.4199412118458308
-[Sun Jul  7 17:22:01 2024] seed 471044336: Z-score + Ridge(param: {'C': 7.900000000000006, 'kernel': 'rbf'}), R2: 0.33886293368510645
+[Mon Jul  8 14:30:16 2024]: Z-score + Ridge(param: {'C': 6.700000000000005, 'kernel': 'rbf'}), R2: 0.999999999935689
+[Mon Jul  8 14:31:01 2024]: Z-score + Ridge(param: {'C': 6.700000000000005, 'kernel': 'rbf'}), R2: 0.9999999999344353
+[Mon Jul  8 14:34:21 2024]: Z-score + Ridge(param: {'C': 1.0, 'kernel': 'linear'}), R2: 0.9999999999393566
+[Mon Jul  8 14:36:16 2024]: Z-score + Ridge(param: {'C': 1.0, 'kernel': 'linear'}), R2: 0.9999999999840691
+[Mon Jul  8 14:50:20 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999886252
+[Mon Jul  8 15:12:05 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.9999999999553805
+[Mon Jul  8 15:17:28 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.9999999999553805
+[Mon Jul  8 15:20:13 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.999999999983232
+[Mon Jul  8 15:22:27 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.9999999999825894
+[Mon Jul  8 15:24:17 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.9999999999825894
+[Mon Jul  8 15:28:51 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999825894
+[Mon Jul  8 15:33:29 2024]: Z-score + Ridge(param: {'C': 0.1, 'kernel': 'linear'}), R2: 0.9999999999831828
+[Mon Jul  8 15:39:30 2024]: Min-Max + KNN(param: {'C': 7.6, 'kernel': 'rbf'}), R2: 0.4321354114065846
+[Mon Jul  8 15:46:27 2024]: Min-Max + KNN(param: {'C': 7.6, 'kernel': 'rbf'}), R2: 0.4321354114065846
+[Mon Jul  8 15:51:03 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999889495
+[Mon Jul  8 15:58:24 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999889495
+[Mon Jul  8 16:04:08 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999778669
+[Mon Jul  8 16:07:12 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999786732
+[Mon Jul  8 16:10:09 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999999999786732
+[Mon Jul  8 16:16:56 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999997802443776
+[Mon Jul  8 16:24:24 2024]: Z-score + Ridge(param: {'C': 0.2, 'kernel': 'linear'}), R2: 0.9999998901092964
+[Mon Jul  8 16:31:09 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 16:37:46 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 16:41:33 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 17:32:24 2024]: Min-Max + Ridge(param: {'C': 11.700000000000001, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 17:49:10 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204178
+[Mon Jul  8 17:58:28 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204178
+[Mon Jul  8 18:05:23 2024]: Min-Max + Ridge(param: {'C': 1.3000000000000003, 'kernel': 'linear'}), R2: 0.9811807889204178
+[Mon Jul  8 18:20:11 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 18:22:22 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811807889204177
+[Mon Jul  8 18:40:33 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811912590049237
+[Mon Jul  8 18:51:06 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811912590049237
+[Mon Jul  8 18:55:21 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811912590049237
+[Mon Jul  8 19:22:18 2024]: Min-Max + Ridge(param: {'C': 9.8, 'kernel': 'linear'}), R2: 0.9814764211644094
