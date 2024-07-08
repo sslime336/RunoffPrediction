@@ -32,3 +32,6 @@
 [Mon Jul  8 18:51:06 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811912590049237
 [Mon Jul  8 18:55:21 2024]: Min-Max + Ridge(param: {'C': 9.1, 'kernel': 'linear'}), R2: 0.9811912590049237
 [Mon Jul  8 19:22:18 2024]: Min-Max + Ridge(param: {'C': 9.8, 'kernel': 'linear'}), R2: 0.9814764211644094
+[Mon Jul  8 19:40:33 2024]: Min-Max + Ridge(param: {'C': 9.8, 'kernel': 'linear'}), R2: 0.9814764211644094
+[Mon Jul  8 19:47:06 2024]: Min-Max + Ridge(param: {'C': 9.8, 'kernel': 'linear'}), R2: 0.9814764211644094
+[Mon Jul  8 19:49:45 2024]: Min-Max + Ridge(param: {'C': 9.8, 'kernel': 'linear'}), R2: 0.9814764211644094
