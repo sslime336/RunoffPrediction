@@ -55,3 +55,10 @@
 [Tue Jul  9 15:56:00 2024]: Min-Max + SVR(param: {'C': 50, 'kernel': 'rbf'}), R2: 0.32125658630202336
 [Tue Jul  9 15:58:39 2024]: Z-score + SVR(param: {'C': 96, 'kernel': 'linear'}), R2: 0.7484562452126133
 [Tue Jul  9 16:13:04 2024]: Z-score + SVR(param: {'C': 96, 'kernel': 'linear'}), R2: 0.7484562452126133
+[Tue Jul  9 16:24:02 2024]: Z-score + SVR(param: {'C': 199, 'kernel': 'linear'}), R2: 0.7484849650419587
+[Tue Jul  9 16:35:27 2024]: Z-score + SVR(param: {'C': 288, 'kernel': 'linear'}), R2: 0.7484677341101267
+[Tue Jul  9 16:43:28 2024]: Min-Max + SVR(param: {'C': 19, 'kernel': 'linear'}), R2: 0.7651775073217221
+[Tue Jul  9 16:45:55 2024]: Min-Max + SVR(param: {'C': 9.9, 'kernel': 'linear'}), R2: 0.7779088995674647
+[Tue Jul  9 16:46:18 2024]: Z-score + SVR(param: {'C': 0.9, 'kernel': 'linear'}), R2: 0.7631412698721434
+[Tue Jul  9 16:47:18 2024]: Z-score + SVR(param: {'C': 9, 'kernel': 'linear'}), R2: 0.7486280577324739
+[Tue Jul  9 16:49:22 2024]: Min-Max + SVR(param: {'C': 9.900000000000007, 'kernel': 'linear'}), R2: 0.7779088995674652
